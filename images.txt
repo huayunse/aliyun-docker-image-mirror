@@ -1,1 +1,7 @@
-mysql:5.7.22
+httpd:2.4.54
+tomcat:10.0.0-jdk8
+lamp:latest-1804
+elasticsearch:8.3.1
+postgres:12.11
+mongo:4.4.15
+redis:7.0.2
